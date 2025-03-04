@@ -61,13 +61,3 @@
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshataa22&layout=compact&theme=aura" />
     &nbsp;
 </p>
-
-<details align="center">
-    <summary> <code>Click for More Stats</code> </summary>
-    <br>
-   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=akshataa22&show_icons=true&theme=aura" />
-  &nbsp;
-  <img width="40%" src="https://streak-stats.demolab.com?user=akshataa22&background=15141B&ring=A177FE&currStreakNum=61FECA&fire=61FECA&sideLabels=A177FE&currStreakLabel=A177FE&dates=61FECA&sideNums=A177FE" />  
-   &nbsp;
-  
-</details>
