@@ -23,7 +23,7 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 📄 Know about my experiences [Resume Link📔](https://drive.google.com)
+- 📄 Know about my experiences [Resume Link📔]([https://drive.google.com](https://drive.google.com/file/d/1zPD_Aw2Tm4Cos6IHdqXTgY-e_JVWW75U/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
