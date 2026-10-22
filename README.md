@@ -1,109 +1,78 @@
-# Hi 👋, I'm Akshata Dhanawade
-
-<h3 align="center">
-  Full Stack Developer | React.js • Next.js • TypeScript • Java • Spring Boot
-</h3>
+# Hey, I'm Akshata 👋
 
 <p align="center">
-  Building responsive web applications, learning backend engineering, and growing one project at a time.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%92%BB;React.js+%7C+Next.js+%7C+TypeScript;Java+%7C+Spring+Boot+%7C+MySQL;Building%2C+Learning%2C+Improving+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&color=A177FE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+from+India;Frontend+Development+with+React+%26+Next.js;Backend+Development+with+Java+%26+Spring+Boot;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  Full Stack Developer from India 🇮🇳
+  <br />
+  I enjoy building useful products, writing clean code, and learning how things work behind the scenes.
 </p>
 
----
-
-### 👩‍💻 About Me
-
-- 💻 Full Stack Developer with **2+ years of frontend development experience**.
-- ⚛️ Experienced in building responsive web applications using **React.js, Next.js, and TypeScript**.
-- 🎨 Passionate about clean UI, reusable components, and scalable frontend architecture.
-- ☕ Expanding my backend development skills with **Core Java, Spring Boot, REST APIs, and MySQL**.
-- 🧠 Currently strengthening my **Data Structures and Algorithms (DSA)** skills using Java.
-- 🚀 Interested in building practical applications, solving real-world problems, and exploring AI-powered development tools.
-- 📫 Reach me at **[dhanawadeakshata53@gmail.com](mailto:dhanawadeakshata53@gmail.com)**
-
-### 🛠️ Languages and Technologies
-
-**Frontend Development**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
-</p>
-
-**Backend Development & Databases**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-</p>
-
-**Tools & Workflow**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-</p>
-
-### 🚀 Projects I've Worked On
-
-- **Highlands Brain** — An EdTech SaaS application featuring admin, staff, and student dashboards, attendance management, learning reports, and digital agreement workflows.
-- **Role-Based Access Management** — Working on role and module permissions, user management, and access control with React/Next.js and Spring Boot.
-- **Omney for Business** — Working on business finance workflows, including invoices, payables, receivables, and vendor/client management.
-
-### 📚 Currently Learning
-
-- Data Structures and Algorithms using Java
-- Spring Boot, REST API design, and backend architecture
-- Database design and SQL
-- Full-stack application development and system design fundamentals
-- Using AI tools thoughtfully to improve my development workflow
-
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/akshatadhanawade" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshatadhanawade">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="mailto:dhanawadeakshata53@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshataa22&show_icons=true&theme=aura&hide_border=true" height="165" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshataa22&layout=compact&theme=aura&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 ---
 
+### 👩‍💻 A little about me
+
+- 💼 2+ years of experience in frontend development.
+- ⚛️ Building responsive applications with React.js, Next.js, and TypeScript.
+- ☕ Growing my backend skills with Java, Spring Boot, REST APIs, and MySQL.
+- 🧠 Currently working on my DSA fundamentals using Java.
+- 🚀 Interested in scalable applications, clean architecture, and thoughtful use of AI tools.
+- 📍 Based in India.
+
+### 🧰 Tech Stack
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind&theme=light" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux and Tailwind CSS" />
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb&theme=light" alt="Java, Spring Boot, MySQL and MongoDB" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=light" alt="Git, GitHub, Docker and VS Code" />
+</p>
+
+### 🚀 Things I've worked on
+
+- **EdTech SaaS** — Admin, staff, and student dashboards, attendance management, learning reports, and digital agreement workflows.
+- **Role-Based Access Management** — User administration, role permissions, module access, and approval workflows using frontend and backend technologies.
+- **Business Finance Applications** — Invoice management, payables, receivables, and vendor/client workflows.
+
+### 🌱 What I'm learning
+
+- Data Structures & Algorithms with Java
+- Spring Boot and backend application design
+- SQL, database design, and API development
+- Building complete full-stack applications
+- Using AI tools to support better engineering, not replace understanding
+
+---
+
+### 📊 GitHub Overview
+
 <p align="center">
-  <i>Learning consistently. Building practically. Growing every day. ✨</i>
+  <img src="https://github-stats-extended.vercel.app/api?username=akshataa22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=akshataa22&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <i>One project. One lesson. A little better every day. ✨</i>
 </p>
