@@ -1,6 +1,6 @@
 # Hey, I'm Akshata Dhanawade 👋
 
-### Full Stack Developer · India 🇮🇳
+### Full Stack Developer
 
 I build responsive web applications with React, Next.js, and TypeScript, while expanding my backend expertise with Java and Spring Boot.
 
@@ -21,8 +21,8 @@ I build responsive web applications with React, Next.js, and TypeScript, while e
 
 ## 👩‍💻 About Me
 
-- 💼 **2+ years of experience** in frontend development.
-- ⚛️ Building responsive applications with React.js, Next.js, and TypeScript.
+- 💼 **2+ years of experience** in software development.
+- ⚛️ Building responsive applications with Java, SpringBoot, React.js, Next.js, and TypeScript.
 - 🎨 Interested in clean UI, reusable components, and scalable frontend architecture.
 - ☕ Growing my backend expertise with Java, Spring Boot, REST APIs, and MySQL.
 - 🧠 Currently strengthening my Data Structures and Algorithms skills using Java.
